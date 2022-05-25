@@ -1,6 +1,6 @@
 import Darkmode from 'darkmode-js';
 
-new Darkmode().showWidget();
+// new Darkmode().showWidget();
 
 const options = {
   bottom: '64px', // default: '32px'
@@ -15,6 +15,5 @@ const options = {
   label: '🌓', // default: ''
   autoMatchOsTheme: true, // default: true
 };
-
 const darkmode = new Darkmode(options);
 darkmode.showWidget();
