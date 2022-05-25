@@ -1,1 +1,0 @@
-{"version":3,"sources":["sass/_example.scss"],"names":[],"mappings":"AAAA,KACE,gBAAA,CACA,YAAA,CACA,iBAAA,CACA,iBAGF,qBACE","file":"src.fe8e52f4.css","sourceRoot":"../src","sourcesContent":["body{\n  padding-top: 20px;\n  width: 1200px;\n  margin-right: auto;\n  margin-left: auto;\n}\n\nbody section+section{\n  margin-top: 30px;\n}"]}
